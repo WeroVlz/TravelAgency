@@ -2,7 +2,7 @@
 
 Website of a travel agency in which you can find different destinations around Mexico. You will be able to review these destinations as well as make reservations. Scripted with JavaScript and React for a school project.
 
-To run the project, on the src folder use the command:
+To run the project, on the src directory use the command:
 
 ### `npm start`
 
