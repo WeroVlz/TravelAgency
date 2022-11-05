@@ -1,0 +1,16 @@
+
+.sbr{
+    background-color: #33cabb;
+    border: 0px;
+}
+
+.sbr:hover{
+    background-color: #31bfb1;
+    border: 0px;
+}
+
+.tli{
+    font-size: 30px;
+    color:#33cabb ;
+    font-weight: bold;
+}
