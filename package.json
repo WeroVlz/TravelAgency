@@ -1,7 +1,10 @@
 {
   "name": "travel-agency",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "Travel Agency",
+  "main": "server.js",
   "private": true,
+  "author": "Edgar Velazquez",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
