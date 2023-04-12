@@ -1,6 +1,6 @@
 # Travel Agency Website
 
-Website of a travel agency in which you can find different destinations around Mexico. You will be able to review these destinations as well as make reservations. Scripted with JavaScript and React for a school project.
+Website of a travel agency in which you can find different destinations around Mexico. You will be able to review these destinations as well as make reservations. Scripted with JavaScript and React.
 
 To run the project, on the src directory use the command:
 
